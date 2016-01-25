@@ -1,0 +1,1 @@
+This is a file to help me practice with git. It should be my first LOCAL commit.
